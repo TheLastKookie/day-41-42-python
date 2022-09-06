@@ -1,2 +1,2 @@
-# day-41-42-python
+# Personal Website
 Introduction to HTML &amp; Intermediate HTML
